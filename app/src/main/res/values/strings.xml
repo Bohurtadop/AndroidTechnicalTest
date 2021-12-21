@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Technical test</string>
+    <string name="team_stadium">Team stadium</string>
+    <string name="team_name">Team name</string>
+    <string name="team_badge">Team badge</string>
+    <string name="teamList">teamList</string>
+    <string name="textview">TextView</string>
+    <string name="team_badge_image">team badge image</string>
+    <string name="team_foundation_year">team foundation year</string>
+</resources>
